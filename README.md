@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Ethan Pasquier</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on **Maxtrack**
+- 🔭 I’m currently working on **MakeItDone**
 
-- 🌱 I’m currently learning **C++,sql and php**
+- 🌱 I’m currently learning **Deep learning, sql**
 
 - 👨‍💻 All of my projects are available at [https://epasquie.notion.site/Ethan-Pasquier-Projet-71ceb199b95e45ea8d38ab4224cb7792](https://epasquie.notion.site/Ethan-Pasquier-Projet-71ceb199b95e45ea8d38ab4224cb7792)
 
